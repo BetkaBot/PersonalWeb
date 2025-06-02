@@ -50,7 +50,7 @@ body {
   background-position: center;
   background-size: cover;
   backgroud-color: pink;
-  overflow-x: hidden;
+  overflow-y: hidden;
 }
 
 header {
